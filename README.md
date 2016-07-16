@@ -35,9 +35,6 @@ A) Simply add the attribute 'autoplay="true"' to the youtube shortcode,
 for example [youtube video="video_id" autoplay="true"]
 
 # Screenshot
-
-The results of adding [youtube video="FXFMQ_qyZEQ" autoplay="true"] to a blog post.
-
 ![An example showing the Youtube Shortcode  in use.](/screenshot-1.png?raw=true "Youtube Shortcode")
 
 The results of adding [youtube video="FXFMQ_qyZEQ" autoplay="true"] to a blog post.
