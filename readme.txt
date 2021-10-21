@@ -1,10 +1,9 @@
 === Plugin Name ===
 Contributors: f13dev
-Donate link: http://f13dev.com/wordpress-plugin-youtube-shortcode/
 Tags: youtube, video, embed, shortcode
 Requires at least: 3.0.1
-Tested up to: 4.5.3
-Stable tag: 1.0
+Tested up to: 5.8.1
+Stable tag: 2.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -19,6 +18,8 @@ Features include:
 * Simply install and add the shortcode
 * All you need is the Youtube video id (the last section of the URL)
 * Optionally set the autoplay attribute to true for the video to play when the page loads
+
+[Read more about F13 YouTube Shortcode](https://f13.dev/wordpress-plugin-youtube-shortcode/)
 
 == Installation ==
 
@@ -48,7 +49,9 @@ for example [youtube video="video_id" autoplay="true"]
 
 == Upgrade Notice ==
 
-= 1.0 =
-Initial release
+= 2.0 =
+* Refactoring code to MVC layout
+* New responsive design
+* Modernising code
 
 == Arbitrary section ==
